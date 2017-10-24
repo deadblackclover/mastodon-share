@@ -1,0 +1,15 @@
+{
+  "name": "mastodon-share",
+  "version": "1.0.0",
+  "description": "Mastodon share button",
+  "main": "./src/index.js",
+  "keywords": [
+    "Mastodon",
+    "share"
+  ],
+  "author": "DEADBLACKCLOVER",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/deadblackclover/mastodon-share/issues"
+  }
+}
