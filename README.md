@@ -9,7 +9,7 @@ npm install mastodon-share
 ## Add to site
 ```html
 <div id="mastodon-share"></div>
-<script src="https://raw.githubusercontent.com/deadblackclover/mastodon-share/master/src/index.js"></script>
+<script src="https://cdn.rawgit.com/deadblackclover/mastodon-share/cb49ab56/src/index.js"></script>
 <script>
   getMessageMastodon("Test share button!");
 </script>
