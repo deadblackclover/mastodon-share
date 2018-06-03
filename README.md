@@ -1,5 +1,6 @@
 # mastodon-share
 Mastodon Share Button
+
 [![NPM](https://nodei.co/npm/mastodon-share.png?compact=true)](https://nodei.co/npm/mastodon-share/)
 
 ## Installation
